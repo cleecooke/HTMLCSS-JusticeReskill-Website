@@ -1,4 +1,17 @@
+                    /* Make ul bullets blue? */
+
 li {
     color:blue
 
 }
+
+.boxes {
+    margin: 10px;
+    padding: 25px;
+    border:
+        lightgrey
+        solid 1px;
+    display: inline-box;
+
+}
+
